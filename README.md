@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/dessiflomer33/THREAT-HUNTING-SCENARIO-TOR)**
 - **[Remote Code Exection Detection](https://github.com/dessiflomer33/Remote-Code-Execution-Detection/blob/main/README.md)**
 - **[Zero-Day-Ransomware-PwnCrypt-Outbreak](https://github.com/dessiflomer33/Zero-Day-Ransomware-PwnCrypt-Outbreak)**
 - **[PhishingSoftwareUpdate](https://github.com/dessiflomer33/PhishingSoftwareUpdate)**
