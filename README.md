@@ -11,8 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-<hr/>
+- **[Incident Response: Remote Code Execution Detected]
 
 ## 🤳 Connect With Me
 
