@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/dessiflomer33/vulnerability-management-program)**
+- **[Vulnerability Management with Nessus on Sandbox Network
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/dessiflomer33/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
